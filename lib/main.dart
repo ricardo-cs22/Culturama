@@ -1,12 +1,12 @@
-import 'package:culturama1/Page/EventosPage.dart';
-import 'package:culturama1/Page/GuiasTuristicosPage.dart';
-import 'package:culturama1/Page/HomePage.dart';
-import 'package:culturama1/Page/HoteisPage.dart';
+import 'package:culturama/Page/EventosPage.dart';
+import 'package:culturama/Page/GuiasTuristicosPage.dart';
+import 'package:culturama/Page/HomePage.dart';
+import 'package:culturama/Page/HoteisPage.dart';
 
-import 'package:culturama1/Page/MelhoresDestinosPage.dart';
-import 'package:culturama1/Page/PrecosPage.dart';
-import 'package:culturama1/Page/RestaurantesPage.dart';
-import 'package:culturama1/Page/TrilhasPage.dart';
+import 'package:culturama/Page/MelhoresDestinosPage.dart';
+import 'package:culturama/Page/PrecosPage.dart';
+import 'package:culturama/Page/RestaurantesPage.dart';
+import 'package:culturama/Page/TrilhasPage.dart';
 
 import 'package:flutter/material.dart';
 

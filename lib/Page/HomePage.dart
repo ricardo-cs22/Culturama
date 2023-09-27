@@ -1,4 +1,4 @@
-import 'package:culturama1/HomeTopicCard.dart';
+import 'package:culturama/HomeTopicCard.dart';
 import 'package:flutter/material.dart';
 
 
@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
         ),
         ListTile(
           
-          title: const Text('Item 2'),
+          title: const Text('preços'),
           onTap: () {
             
           },
